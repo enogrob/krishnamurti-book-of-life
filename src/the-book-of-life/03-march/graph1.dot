@@ -1,0 +1,24 @@
+#dot -Tps graph1.dot -o graph1.ps
+
+digraph SimplestDiagrams {
+None [label="No Alert ToDos Distributed"]
+Distribute [label="Distribute Alert ToDo"]
+"Screened?" [
+    shape=record
+]
+OrganizationMatch [
+    shape=record
+    label="{OrganizationMatch|Distribution Type\nAsset Size}"
+]
+AssigneesMatch [
+    shape=record
+    label="{AssigneesMatch|Product\nCompliance\nReporter\nGeneral}"
+]
+"An Alert" -> "Screened?"
+"Screened?" -> "OrganizationMatch" [label="no"]
+    "Screened?" -> "None" [label="yes"]
+"OrganizationMatch" -> "AssigneesMatch"  [label="match(es)" arrowhead=crow]
+    "OrganizationMatch" -> "None"  [label="no matches"]
+"AssigneesMatch" -> "Distribute" [label="match(es)" arrowhead=crow]
+    "AssigneesMatch" -> "None" [label="no matches"]
+}
