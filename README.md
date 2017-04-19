@@ -14,7 +14,7 @@ Table of Contents
 March
 April
 [x] Desire
-[~] Sex
+[x] Sex
 [ ] Marriage
 [ ] Passion
 ```
