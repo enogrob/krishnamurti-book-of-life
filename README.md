@@ -16,5 +16,10 @@ April
 [x] Desire
 [x] Sex
 [x] Marriage
-[ ] Passion
+[x] Passion
+September
+[x] Intellect 4
+[ ] Thought
+[ ] Knowledge
+[ ] Mind
 ```
