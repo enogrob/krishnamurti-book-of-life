@@ -11,6 +11,13 @@ Solution Integrator Experienced - Certified by Ericsson
 
 ```
 Table of Contents
+[x] Introduction
+January
+[x] 1 Listen with Easy
+listening
+Learning
+Authority
+Self-Knowledge
 March
 April
 [x] Desire
