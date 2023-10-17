@@ -32,4 +32,5 @@ September
 October
 Brain
 [x] 2023-10-16 The Old brain, our animalistic brain
+[x] 2023-10-17 A fresh mind
 ```
