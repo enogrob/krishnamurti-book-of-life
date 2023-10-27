@@ -42,4 +42,5 @@ Brain
 [x] 2023-10-24 Knowledge is a detriment to change
 [x] 2023-10-25 Complete emptiness
 [x] 2023-10-26 Deliberate change is no change at all
+[x] 2023-10-27 Outside the Field of Thoughts
 ```
