@@ -46,4 +46,6 @@ Brain
 [x] 2023-10-28 Real Change
 [x] 2023-10-29 Can a Human being change?
 [x] 2023-10-30 Tranformation without motivation
+[x] 2023-10-31 A psychological revolution
+[x] 2023-11-01 Breaking habits
 ```
