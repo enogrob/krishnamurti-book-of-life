@@ -48,4 +48,6 @@ Brain
 [x] 2023-10-30 Tranformation without motivation
 [x] 2023-10-31 A psychological revolution
 [x] 2023-11-01 Breaking habits
+[x] 2023-11-02 Live the Four Stations in a Day
+[x] 2023-11-03 Anonymous creativity
 ```
