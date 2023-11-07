@@ -50,4 +50,8 @@ Brain
 [x] 2023-11-01 Breaking habits
 [x] 2023-11-02 Live the Four Stations in a Day
 [x] 2023-11-03 Anonymous creativity
+[x] 2023-11-04 Empty techniques
+[x] 2023-11-05 Know When not Cooperate
+[x] 2023-11-06 Why Is There Crime?
+[x] 2023-11-07 Life's Purpose
 ```
