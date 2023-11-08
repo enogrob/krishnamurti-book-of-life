@@ -54,4 +54,5 @@ Brain
 [x] 2023-11-05 Know When not Cooperate
 [x] 2023-11-06 Why Is There Crime?
 [x] 2023-11-07 Life's Purpose
+[x] 2023-11-08 Live in This World Anonymously
 ```
