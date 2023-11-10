@@ -55,4 +55,6 @@ Brain
 [x] 2023-11-06 Why Is There Crime?
 [x] 2023-11-07 Life's Purpose
 [x] 2023-11-08 Live in This World Anonymously
+[x] 2023-11-09 Only One Hour to Live
+[x] 2023-11-10 Die Every Day
 ```
