@@ -47,6 +47,7 @@ Brain
 [x] 2023-10-29 Can a Human being change?
 [x] 2023-10-30 Tranformation without motivation
 [x] 2023-10-31 A psychological revolution
+Life
 [x] 2023-11-01 Breaking habits
 [x] 2023-11-02 Live the Four Stations in a Day
 [x] 2023-11-03 Anonymous creativity
@@ -57,4 +58,8 @@ Brain
 [x] 2023-11-08 Live in This World Anonymously
 [x] 2023-11-09 Only One Hour to Live
 [x] 2023-11-10 Die Every Day
+Death
+[x] 2023-11-11 Feel the state of death
+[x] 2023-11-12 Fear of death?
+[x] 2023-11-13 I am afraid
 ```
