@@ -62,4 +62,5 @@ Death
 [x] 2023-11-11 Feel the state of death
 [x] 2023-11-12 Fear of death?
 [x] 2023-11-13 I am afraid
+[x] 2023-11-14 Only that which dies can renew itself
 ```
