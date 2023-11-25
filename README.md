@@ -64,4 +64,5 @@ Death
 [x] 2023-11-13 I am afraid
 [x] 2023-11-14 Only that which dies can renew itself
 [x] 2023-11-24 Love without incentive
+[x] 2023-11-25 Love is Dangerous
 ```
