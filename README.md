@@ -65,4 +65,6 @@ Death
 [x] 2023-11-14 Only that which dies can renew itself
 [x] 2023-11-24 Love without incentive
 [x] 2023-11-25 Love is Dangerous
+[x] 2023-11-26 What is Your Reaction?
+[x] 2023-11-27 Compassion is not the word
 ```
