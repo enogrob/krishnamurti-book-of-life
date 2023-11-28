@@ -67,4 +67,5 @@ Death
 [x] 2023-11-25 Love is Dangerous
 [x] 2023-11-26 What is Your Reaction?
 [x] 2023-11-27 Compassion is not the word
+[x] 2023-11-28 Compassion and goodness
 ```
