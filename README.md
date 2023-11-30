@@ -69,4 +69,5 @@ Death
 [x] 2023-11-27 Compassion is not the word
 [x] 2023-11-28 Compassion and goodness
 [x] 2023-11-29 Transmission Compassion
+[x] 2023-11-30 Come to it empty-handed
 ```
