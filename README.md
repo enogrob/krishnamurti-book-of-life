@@ -63,6 +63,7 @@ Death
 [x] 2023-11-12 Fear of death?
 [x] 2023-11-13 I am afraid
 [x] 2023-11-14 Only that which dies can renew itself
+Love
 [x] 2023-11-24 Love without incentive
 [x] 2023-11-25 Love is Dangerous
 [x] 2023-11-26 What is Your Reaction?
@@ -70,4 +71,7 @@ Death
 [x] 2023-11-28 Compassion and goodness
 [x] 2023-11-29 Transmission Compassion
 [x] 2023-11-30 Come to it empty-handed
+December
+Aloneness
+[x] 2023-12-01 Alone has great beauty
 ```
