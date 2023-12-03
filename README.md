@@ -75,4 +75,5 @@ December
 Aloneness
 [x] 2023-12-01 Alone has great beauty
 [x] 2023-12-02 Aloneness is not loneliness
+[x] 2023-12-03 Knowing loneliness
 ```
