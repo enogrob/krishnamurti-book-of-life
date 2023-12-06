@@ -77,4 +77,6 @@ Aloneness
 [x] 2023-12-02 Aloneness is not loneliness
 [x] 2023-12-03 Knowing loneliness
 [x] 2023-12-04 Only in aloneness is there innocence
+[x] 2023-12-05 The one who is alone is innocent
+[x] 2023-12-06 Create a new world, a new civilization 
 ```
