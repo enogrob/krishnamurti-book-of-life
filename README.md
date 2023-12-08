@@ -80,4 +80,6 @@ Aloneness
 [x] 2023-12-05 The one who is alone is innocent
 [x] 2023-12-06 Create a new world, a new civilization 
 [x] 2023-12-07 Aloneness in which there is no fear
+Religion
+[x] 2023-12-08 Begin here
 ```
