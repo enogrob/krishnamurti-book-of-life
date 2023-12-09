@@ -82,4 +82,5 @@ Aloneness
 [x] 2023-12-07 Aloneness in which there is no fear
 Religion
 [x] 2023-12-08 Begin here
+[x] 2023-12-09 The religious mind is explosive 
 ```
