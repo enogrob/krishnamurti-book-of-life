@@ -83,4 +83,5 @@ Aloneness
 Religion
 [x] 2023-12-08 Begin here
 [x] 2023-12-09 The religious mind is explosive 
+[x] 2023-12-10 Prayer is a complex affair
 ```
