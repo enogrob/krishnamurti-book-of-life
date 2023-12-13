@@ -86,4 +86,5 @@ Religion
 [x] 2023-12-10 Prayer is a complex affair
 [x] 2023-12-11 The answer to prayer
 [x] 2023-12-12 Is religion a matter of belief?
+[x] 2023-12-13 Is there truth in religions?
 ```
