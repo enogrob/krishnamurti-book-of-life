@@ -85,4 +85,5 @@ Religion
 [x] 2023-12-09 The religious mind is explosive 
 [x] 2023-12-10 Prayer is a complex affair
 [x] 2023-12-11 The answer to prayer
+[x] 2023-12-12 Is religion a matter of belief?
 ```
