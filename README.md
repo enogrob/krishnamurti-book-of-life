@@ -88,4 +88,6 @@ Religion
 [x] 2023-12-12 Is religion a matter of belief?
 [x] 2023-12-13 Is there truth in religions?
 [x] 2023-13-14 To climb high one must begin low
+God
+[x] 2023-13-15 Your Gods are dividing you
 ```
