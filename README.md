@@ -90,4 +90,5 @@ Religion
 [x] 2023-13-14 To climb high one must begin low
 God
 [x] 2023-13-15 Your Gods are dividing you
+[x] 2023-13-16 True religion
 ```
