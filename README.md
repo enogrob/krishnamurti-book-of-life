@@ -91,4 +91,8 @@ Religion
 God
 [x] 2023-13-15 Your Gods are dividing you
 [x] 2023-13-16 True religion
+[x] 2023-13-17 A marvelous escape
+[x] 2023-13-18 Your God is not God
+[x] 2023-13-19 The religious man
+[x] 2023-13-20 I do not know
 ```
