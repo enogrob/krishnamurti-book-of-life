@@ -97,4 +97,7 @@ God
 [x] 2023-13-20 I do not know
 [x] 2023-13-21 Beyond the limitations of beliefs
 [x] 2023-13-22 Free from the net of time
+Meditation
+[x] 2023-13-23 Meditation
+[x] 2023-13-24 Know the whole content of one thought
 ```
