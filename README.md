@@ -95,4 +95,6 @@ God
 [x] 2023-13-18 Your God is not God
 [x] 2023-13-19 The religious man
 [x] 2023-13-20 I do not know
+[x] 2023-13-21 Beyond the limitations of beliefs
+[x] 2023-13-22 Free from the net of time
 ```
