@@ -100,4 +100,5 @@ God
 Meditation
 [x] 2023-13-23 Meditation
 [x] 2023-13-24 Know the whole content of one thought
+[x] 2023-13-25 Igniting the flame of self-awareness
 ```
