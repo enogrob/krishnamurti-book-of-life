@@ -105,4 +105,6 @@ Meditation
 [x] 2023-13-27 A mind in the state of creation
 [x] 2023-13-28 Lay the foundation instantly
 [x] 2023-13-29 Finding silence
+[x] 2023-13-30 Generosity of the heart is the beginning of meditation
+[x] 2023-13-31 Meditation is essential to life
 ```
