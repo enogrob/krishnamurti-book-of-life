@@ -114,4 +114,5 @@ Authority
 [x] 2024-01-15 To destroy is to create
 [x] 2024-01-16 Virtue has no authority
 [x] 2024-01-17 The old mind is bound by authority
+[x] 2024-01-18 Free at the beginning
 ```
