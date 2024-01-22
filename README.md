@@ -117,4 +117,6 @@ Authority
 [x] 2024-01-18 Free at the beginning
 [x] 2024-01-19 Liberation from ignorance from sorrow
 [x] 2024-01-20 Why do we follow?
+[x] 2024-01-21 Authority corrupts both leader and follower
+[x] 2024-01-22 Can I rely on my experience?
 ```
