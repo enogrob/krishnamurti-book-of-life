@@ -120,4 +120,5 @@ Authority
 [x] 2024-01-21 Authority corrupts both leader and follower
 [x] 2024-01-22 Can I rely on my experience?
 [x] 2024-01-23 Self-knowledge is a process
+[x] 2024-01-24 The untethered mind
 ```
