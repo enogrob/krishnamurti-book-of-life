@@ -121,4 +121,5 @@ Authority
 [x] 2024-01-22 Can I rely on my experience?
 [x] 2024-01-23 Self-knowledge is a process
 [x] 2024-01-24 The untethered mind
+[x] 2024-01-25 Active self-knowledge
 ```
