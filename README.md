@@ -123,4 +123,5 @@ Authority
 [x] 2024-01-24 The untethered mind
 [x] 2024-01-25 Active self-knowledge
 [x] 2024-01-26 Creativeness through self-knowledge
+[x] 2024-01-27 Quiet mind, simple mind
 ```
