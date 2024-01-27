@@ -122,4 +122,5 @@ Authority
 [x] 2024-01-23 Self-knowledge is a process
 [x] 2024-01-24 The untethered mind
 [x] 2024-01-25 Active self-knowledge
+[x] 2024-01-26 Creativeness through self-knowledge
 ```
