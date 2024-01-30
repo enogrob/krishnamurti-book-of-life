@@ -126,4 +126,5 @@ Authority
 [x] 2024-01-27 Quiet mind, simple mind
 [x] 2024-01-28 Self-knowing
 [x] 2024-01-29 Creative Emptiness
+[x] 2024-01-30 Self-knowledge
 ```
