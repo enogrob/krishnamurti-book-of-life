@@ -128,4 +128,5 @@ Authority
 [x] 2024-01-29 Creative Emptiness
 [x] 2024-01-30 Self-knowledge
 [x] 2024-01-31 Relationship is a mirror
+[x] 2024-02-01 Becoming is strife
 ```
