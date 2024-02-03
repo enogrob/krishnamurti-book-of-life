@@ -110,6 +110,7 @@ Meditation
 January
 Listening
 [x] 2024-01-01 Listen with Easy
+Learning
 Authority
 [x] 2024-01-15 To destroy is to create
 [x] 2024-01-16 Virtue has no authority
@@ -119,6 +120,7 @@ Authority
 [x] 2024-01-20 Why do we follow?
 [x] 2024-01-21 Authority corrupts both leader and follower
 [x] 2024-01-22 Can I rely on my experience?
+Self-Knowledge
 [x] 2024-01-23 Self-knowledge is a process
 [x] 2024-01-24 The untethered mind
 [x] 2024-01-25 Active self-knowledge
@@ -128,6 +130,8 @@ Authority
 [x] 2024-01-29 Creative Emptiness
 [x] 2024-01-30 Self-knowledge
 [x] 2024-01-31 Relationship is a mirror
+Becoming
 [x] 2024-02-01 Becoming is strife
 [x] 2024-02-02 All becoming is disintegration 
+[x] 2024-02-03 Can the crude mind become sensitive? 
 ```
