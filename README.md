@@ -135,4 +135,5 @@ Becoming
 [x] 2024-02-02 All becoming is disintegration 
 [x] 2024-02-03 Can the crude mind become sensitive? 
 [x] 2024-02-04 Opportunities for self-expansion
+[x] 2024-02-05 Beyond all experiencing
 ```
