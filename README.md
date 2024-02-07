@@ -137,4 +137,5 @@ Becoming
 [x] 2024-02-04 Opportunities for self-expansion
 [x] 2024-02-05 Beyond all experiencing
 [x] 2024-02-06 What is the self?
+[x] 2024-02-07 When there is love, self is not
 ```
