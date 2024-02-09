@@ -139,4 +139,6 @@ Becoming
 [x] 2024-02-06 What is the self?
 [x] 2024-02-07 When there is love, self is not
 [x] 2024-02-08 Understanding what is
+Belief
+[x] 2024-02-09 What we believe
 ```
