@@ -141,4 +141,5 @@ Becoming
 [x] 2024-02-08 Understanding what is
 Belief
 [x] 2024-02-09 What we believe
+[x] 2024-02-10 Agitaded by belief
 ```
