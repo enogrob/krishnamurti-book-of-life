@@ -146,4 +146,5 @@ Belief
 [x] 2024-02-12 The screen of belief
 [x] 2024-02-13 Meeting life anew
 [x] 2024-02-14 Belief hinders true understanding
+[x] 2024-02-15 Direct observation
 ```
