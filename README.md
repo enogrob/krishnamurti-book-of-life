@@ -148,4 +148,6 @@ Belief
 [x] 2024-02-14 Belief hinders true understanding
 [x] 2024-02-15 Direct observation
 [x] 2024-02-16 Action without idea
+[x] 2024-02-17 Action without the process of thought
 ```
+
