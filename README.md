@@ -152,5 +152,9 @@ Belief
 [x] 2024-02-18 Do ideas limit action?
 [x] 2024-02-19 Ideology prevents action
 [x] 2024-02-20 Action without ideation
+[x] 2024-02-21 Acting without idea is the way of love
+Good and Evil
+[x] 2024-02-22 Conflict of the opposites
+[x] 2024-02-23 Beyond duality
 ```
 
