@@ -156,5 +156,6 @@ Belief
 Good and Evil
 [x] 2024-02-22 Conflict of the opposites
 [x] 2024-02-23 Beyond duality
+[x] 2024-02-24 Justifying evil
 ```
 
