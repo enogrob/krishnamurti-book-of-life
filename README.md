@@ -158,5 +158,6 @@ Good and Evil
 [x] 2024-02-23 Beyond duality
 [x] 2024-02-24 Justifying evil
 [x] 2024-02-25 Goodness has no motive
+[x] 2024-02-26 Human evolution
 ```
 
