@@ -169,5 +169,6 @@ Dependence
 [x] 2024-03-04 Become deeply aware
 [x] 2024-03-05 Relationship
 [x] 2024-03-06 The “me” is the possession
+[x] 2024-03-07 To exploit is to be exploited
 ```
 
