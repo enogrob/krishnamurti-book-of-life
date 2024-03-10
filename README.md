@@ -171,5 +171,7 @@ Dependence
 [x] 2024-03-06 The “me” is the possession
 [x] 2024-03-07 To exploit is to be exploited
 [x] 2024-03-08 The cultivation of detachment
+[x] 2024-03-09 Attachment is self-deception
+[x] 2024-03-10 Face the fact and see what happens
 ```
 
