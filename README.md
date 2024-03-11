@@ -173,5 +173,6 @@ Dependence
 [x] 2024-03-08 The cultivation of detachment
 [x] 2024-03-09 Attachment is self-deception
 [x] 2024-03-10 Face the fact and see what happens
+[x] 2024-03-11 Attachment is escape
 ```
 
