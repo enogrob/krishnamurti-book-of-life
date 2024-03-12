@@ -174,5 +174,6 @@ Dependence
 [x] 2024-03-09 Attachment is self-deception
 [x] 2024-03-10 Face the fact and see what happens
 [x] 2024-03-11 Attachment is escape
+[x] 2024-03-12 To be alone
 ```
 
