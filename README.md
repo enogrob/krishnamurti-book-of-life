@@ -176,5 +176,6 @@ Dependence
 [x] 2024-03-11 Attachment is escape
 [x] 2024-03-12 To be alone
 [x] 2024-03-13 Craving is always craving
+[x] 2024-03-14 Intensity free of all attachment
 ```
 
