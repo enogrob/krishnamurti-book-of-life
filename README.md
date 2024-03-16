@@ -178,5 +178,6 @@ Dependence
 [x] 2024-03-13 Craving is always craving
 [x] 2024-03-14 Intensity free of all attachment
 [x] 2024-03-15 Relationship is a mirror
+[x] 2024-03-16 The function of relationship
 ```
 
