@@ -180,5 +180,6 @@ Dependence
 [x] 2024-03-15 Relationship is a mirror
 [x] 2024-03-16 The function of relationship
 [x] 2024-03-17 How can there be real love?
+[x] 2024-03-18 We are that which we possess
 ```
 
