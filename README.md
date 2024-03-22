@@ -170,6 +170,7 @@ Dependence
 [x] 2024-03-05 Relationship
 [x] 2024-03-06 The “me” is the possession
 [x] 2024-03-07 To exploit is to be exploited
+Attachment
 [x] 2024-03-08 The cultivation of detachment
 [x] 2024-03-09 Attachment is self-deception
 [x] 2024-03-10 Face the fact and see what happens
@@ -177,6 +178,7 @@ Dependence
 [x] 2024-03-12 To be alone
 [x] 2024-03-13 Craving is always craving
 [x] 2024-03-14 Intensity free of all attachment
+Relationship
 [x] 2024-03-15 Relationship is a mirror
 [x] 2024-03-16 The function of relationship
 [x] 2024-03-17 How can there be real love?
@@ -184,5 +186,7 @@ Dependence
 [x] 2024-03-19 Being related
 [x] 2024-03-20 You and I are the problem, not the world
 [x] 2024-03-21 There is no such thing as living alone
+Fear
+[x] 2024-03-22 Freedom from fear
 ```
 
