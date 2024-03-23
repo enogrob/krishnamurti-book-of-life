@@ -188,5 +188,6 @@ Relationship
 [x] 2024-03-21 There is no such thing as living alone
 Fear
 [x] 2024-03-22 Freedom from fear
+[x] 2024-03-23 Dealing with fear?
 ```
 
