@@ -190,5 +190,6 @@ Fear
 [x] 2024-03-22 Freedom from fear
 [x] 2024-03-23 Dealing with fear?
 [x] 2024-03-24 The door to understanding
+[x] 2024-03-25 Fear makes us obey
 ```
 
