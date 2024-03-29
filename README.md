@@ -194,5 +194,6 @@ Fear
 [x] 2024-03-26 Face-to-face with the fact
 [x] 2024-03-27 Contacting fear
 [x] 2024-03-28 Fear is non-acceptance of what is
+[x] 2024-03-29 The disorder that time creates
 ```
 
