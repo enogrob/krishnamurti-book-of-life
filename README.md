@@ -197,5 +197,7 @@ Fear
 [x] 2024-03-29 The disorder that time creates
 [x] 2024-03-30 How do I look at anger?
 [x] 2024-03-31 The root of all fear
+Desire
+[x] 2024-04-01 There is only craving
 ```
 
