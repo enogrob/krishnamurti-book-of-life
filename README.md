@@ -199,5 +199,6 @@ Fear
 [x] 2024-03-31 The root of all fear
 Desire
 [x] 2024-04-01 There is only craving
+[x] 2024-04-02 Understanding desire
 ```
 
