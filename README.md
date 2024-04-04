@@ -201,5 +201,6 @@ Desire
 [x] 2024-04-01 There is only craving
 [x] 2024-04-02 Understanding desire
 [x] 2024-04-03 Desire has to be understood
+[x] 2024-04-04 The quality of desire
 ```
 
