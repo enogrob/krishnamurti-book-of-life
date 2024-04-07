@@ -204,5 +204,6 @@ Desire
 [x] 2024-04-04 The quality of desire
 [x] 2024-04-05 Why shouldn’t one have pleasure?
 [x] 2024-04-06 A healthy normal reaction
+[x] 2024-04-07 Dying to little things
 ```
 
