@@ -205,5 +205,7 @@ Desire
 [x] 2024-04-05 Why shouldn’t one have pleasure?
 [x] 2024-04-06 A healthy normal reaction
 [x] 2024-04-07 Dying to little things
+Sex
+[x] 2024-04-08 Sex
 ```
 
