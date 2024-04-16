@@ -215,4 +215,5 @@ Sex
 Marriage
 [x] 2024-04-14 A thing of the mind
 [x] 2024-04-15 In considering marriage
+[x] 2024-04-16 Love is incapable of adjustment
 
