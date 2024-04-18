@@ -217,4 +217,5 @@ Marriage
 [x] 2024-04-15 In considering marriage
 [x] 2024-04-16 Love is incapable of adjustment
 [x] 2024-04-17 To love is to be chaste
+[x] 2024-04-18 Constant thought is a waste of energy
 
