@@ -220,4 +220,5 @@ Marriage
 [x] 2024-04-18 Constant thought is a waste of energy
 [x] 2024-04-19 The idealist cannot know love
 [x] 2024-04-20 Understanding passion
+[x] 2024-04-21 Means and end are one
 
