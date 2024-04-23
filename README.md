@@ -222,4 +222,5 @@ Marriage
 [x] 2024-04-20 Understanding passion
 [x] 2024-04-21 Means and end are one
 [x] 2024-04-22 Total abandonment
+[x] 2024-04-23 This pure flame of passion
 
