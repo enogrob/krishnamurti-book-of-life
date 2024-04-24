@@ -219,8 +219,10 @@ Marriage
 [x] 2024-04-17 To love is to be chaste
 [x] 2024-04-18 Constant thought is a waste of energy
 [x] 2024-04-19 The idealist cannot know love
+Passion
 [x] 2024-04-20 Understanding passion
 [x] 2024-04-21 Means and end are one
 [x] 2024-04-22 Total abandonment
 [x] 2024-04-23 This pure flame of passion
+[x] 2024-04-24 Beauty beyond feeling
 
