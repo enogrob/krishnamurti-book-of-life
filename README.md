@@ -196,7 +196,8 @@ Fear
 [x] 2024-03-28 Fear is non-acceptance of what is
 [x] 2024-03-29 The disorder that time creates
 [x] 2024-03-30 How do I look at anger?
-[x] 2024-03-31 The root of all fear
+[x] 2024-03-31 The root of all 
+April
 Desire
 [x] 2024-04-01 There is only craving
 [x] 2024-04-02 Understanding desire
@@ -230,4 +231,5 @@ Passion
 [x] 2024-04-27 A passionate mind is inquiring
 [x] 2024-04-28 Petty mind
 [x] 2024-04-29 Lost passion
+[x] 2024-04-30 How do I look at anger?
 
