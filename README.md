@@ -232,4 +232,8 @@ Passion
 [x] 2024-04-28 Petty mind
 [x] 2024-04-29 Lost passion
 [x] 2024-04-30 How do I look at anger?
+May
+Intelligence
+[x] 2024-05-01 A mind rich with innocence
+[x] 2024-05-02 What role has emotion in life?
 
