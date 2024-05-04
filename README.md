@@ -237,4 +237,5 @@ Intelligence
 [x] 2024-05-01 A mind rich with innocence
 [x] 2024-05-02 What role has emotion in life?
 [x] 2024-05-03 Feeling intelligence
+[x] 2024-05-04 Intellect vs. intelligence
 
