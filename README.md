@@ -240,4 +240,6 @@ Intelligence
 [x] 2024-05-04 Intellect vs. intelligence
 [x] 2024-05-05 Sentiment and emotion breed cruelty
 [x] 2024-05-06 We must die to all our emotions
+Feelings
+[x] 2024-05-07 one-must-have-great-feelings
 
