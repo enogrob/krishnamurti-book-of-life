@@ -241,5 +241,6 @@ Intelligence
 [x] 2024-05-05 Sentiment and emotion breed cruelty
 [x] 2024-05-06 We must die to all our emotions
 Feelings
-[x] 2024-05-07 one-must-have-great-feelings
+[x] 2024-05-07 One must have great feelings
+[x] 2024-05-08 Observation without thought
 
