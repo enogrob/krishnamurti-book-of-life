@@ -243,4 +243,7 @@ Intelligence
 Feelings
 [x] 2024-05-07 One must have great feelings
 [x] 2024-05-08 Observation without thought
+[x] 2024-05-09 The totality of feeling
+[x] 2024-05-10 If you do not name that feeling
+
 
