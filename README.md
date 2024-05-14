@@ -248,5 +248,6 @@ Feelings
 [x] 2024-05-11 Emotions lead nowhere
 [x] 2024-05-12 Memory negates love
 [x] 2024-05-13 Do not name a feeling
+[x] 2024-05-14 Remain with a feeling and see what happens
 
 
