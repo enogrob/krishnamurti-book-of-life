@@ -251,5 +251,6 @@ Feelings
 [x] 2024-05-14 Remain with a feeling and see what happens
 [x] 2024-05-15 Understanding words
 [x] 2024-05-16 Memory clouds perception
+[x] 2024-05-17 Words create limitations
 
 
