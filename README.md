@@ -252,5 +252,6 @@ Feelings
 [x] 2024-05-15 Understanding words
 [x] 2024-05-16 Memory clouds perception
 [x] 2024-05-17 Words create limitations
+[x] 2024-05-18 Going beyound words
 
 
