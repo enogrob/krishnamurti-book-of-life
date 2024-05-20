@@ -254,5 +254,6 @@ Feelings
 [x] 2024-05-17 Words create limitations
 [x] 2024-05-18 Going beyound words
 [x] 2024-05-19 Extraordinary seeing
+[x] 2024-05-20 Perception of truth is immediate
 
 
