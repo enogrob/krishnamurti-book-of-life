@@ -255,5 +255,6 @@ Feelings
 [x] 2024-05-18 Going beyound words
 [x] 2024-05-19 Extraordinary seeing
 [x] 2024-05-20 Perception of truth is immediate
+[x] 2024-05-21 Subtle truth
 
 
