@@ -257,5 +257,6 @@ Feelings
 [x] 2024-05-20 Perception of truth is immediate
 [x] 2024-05-21 Subtle truth
 [x] 2024-05-22 All thought is partial
+[x] 2024-05-23 Freedom from the self
 
 
