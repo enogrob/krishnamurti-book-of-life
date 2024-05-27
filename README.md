@@ -249,6 +249,7 @@ Feelings
 [x] 2024-05-12 Memory negates love
 [x] 2024-05-13 Do not name a feeling
 [x] 2024-05-14 Remain with a feeling and see what happens
+Words
 [x] 2024-05-15 Understanding words
 [x] 2024-05-16 Memory clouds perception
 [x] 2024-05-17 Words create limitations
@@ -257,9 +258,11 @@ Feelings
 [x] 2024-05-20 Perception of truth is immediate
 [x] 2024-05-21 Subtle truth
 [x] 2024-05-22 All thought is partial
+Conditioning
 [x] 2024-05-23 Freedom from the self
 [x] 2024-05-24 Awareness may burn away the problems
 [x] 2024-05-25 There is no noble or better conditioning
 [x] 2024-05-26 Freedom from conditioning
+[x] 2024-05-27 Simple awareness
 
 
