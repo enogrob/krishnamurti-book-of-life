@@ -264,5 +264,6 @@ Conditioning
 [x] 2024-05-25 There is no noble or better conditioning
 [x] 2024-05-26 Freedom from conditioning
 [x] 2024-05-27 Simple awareness
+[x] 2024-05-28 No part of the mind is unconditioned
 
 
