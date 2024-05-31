@@ -267,5 +267,6 @@ Conditioning
 [x] 2024-05-28 No part of the mind is unconditioned
 [x] 2024-05-29 The burden of the unconscious
 [x] 2024-05-30 The interval between thoughts
+[x] 2024-05-31 Observe how habits are formed
 
 
