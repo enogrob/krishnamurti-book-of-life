@@ -268,5 +268,9 @@ Conditioning
 [x] 2024-05-29 The burden of the unconscious
 [x] 2024-05-30 The interval between thoughts
 [x] 2024-05-31 Observe how habits are formed
+June
+[x] 2024-06-01 Energy creates its own discipline
+
+
 
 
