@@ -270,6 +270,7 @@ Conditioning
 [x] 2024-05-31 Observe how habits are formed
 June
 [x] 2024-06-01 Energy creates its own discipline
+[x] 2024-06-02 Duality creates conflict
 
 
 
