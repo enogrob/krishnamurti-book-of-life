@@ -271,6 +271,7 @@ Conditioning
 June
 [x] 2024-06-01 Energy creates its own discipline
 [x] 2024-06-02 Duality creates conflict
+[x] 2024-06-03 The pattern of an idea
 
 
 
