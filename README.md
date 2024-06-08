@@ -269,13 +269,18 @@ Conditioning
 [x] 2024-05-30 The interval between thoughts
 [x] 2024-05-31 Observe how habits are formed
 June
+Energy
 [x] 2024-06-01 Energy creates its own discipline
 [x] 2024-06-02 Duality creates conflict
 [x] 2024-06-03 The pattern of an idea
 [x] 2024-06-04 Where there is contradiction there is conflict
 [x] 2024-06-05 Creative energy
 [x] 2024-06-06 The highest form of energy
+Attention
 [x] 2024-06-07 The act of listening to a fact will free the mind
+[x] 2024-06-08 Attention without resistance 
+Choiceless Awareness
+Violence
 
 
 
