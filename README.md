@@ -279,6 +279,7 @@ Energy
 Attention
 [x] 2024-06-07 The act of listening to a fact will free the mind
 [x] 2024-06-08 Attention without resistance 
+[x] 2024-06-09 Attention free of effort
 Choiceless Awareness
 Violence
 
