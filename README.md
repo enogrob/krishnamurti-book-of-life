@@ -280,6 +280,7 @@ Attention
 [x] 2024-06-07 The act of listening to a fact will free the mind
 [x] 2024-06-08 Attention without resistance 
 [x] 2024-06-09 Attention free of effort
+[x] 2024-06-10 An attention that is not exclusive
 Choiceless Awareness
 Violence
 
