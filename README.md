@@ -282,6 +282,7 @@ Attention
 [x] 2024-06-09 Attention free of effort
 [x] 2024-06-10 An attention that is not exclusive
 [x] 2024-06-11 Attention is limitless, without frontiers
+[x] 2024-06-12 Complete attention
 Choiceless Awareness
 Violence
 
