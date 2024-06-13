@@ -283,6 +283,7 @@ Attention
 [x] 2024-06-10 An attention that is not exclusive
 [x] 2024-06-11 Attention is limitless, without frontiers
 [x] 2024-06-12 Complete attention
+[x] 2024-06-13 Elimination of fear is the beginning of attention
 Choiceless Awareness
 Violence
 
