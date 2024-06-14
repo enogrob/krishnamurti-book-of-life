@@ -284,6 +284,7 @@ Attention
 [x] 2024-06-11 Attention is limitless, without frontiers
 [x] 2024-06-12 Complete attention
 [x] 2024-06-13 Elimination of fear is the beginning of attention
+[x] 2024-06-14 There is no place at which to arrive
 Choiceless Awareness
 Violence
 
