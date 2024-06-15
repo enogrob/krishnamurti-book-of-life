@@ -286,6 +286,7 @@ Attention
 [x] 2024-06-13 Elimination of fear is the beginning of attention
 [x] 2024-06-14 There is no place at which to arrive
 Choiceless Awareness
+[x] 2024-06-15 Knowledge is not awareness
 Violence
 
 
