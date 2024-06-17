@@ -288,6 +288,7 @@ Attention
 Choiceless Awareness
 [x] 2024-06-15 Knowledge is not awareness
 [x] 2024-06-16 Introspection is incomplete
+[x] 2024-06-17 Seeing the whole
 Violence
 
 
