@@ -290,6 +290,7 @@ Choiceless Awareness
 [x] 2024-06-16 Introspection is incomplete
 [x] 2024-06-17 Seeing the whole
 [x] 2024-06-18 Awareness cannot be disciplined
+[x] 2024-06-19 Let a thought flower
 Violence
 
 
