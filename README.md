@@ -292,6 +292,7 @@ Choiceless Awareness
 [x] 2024-06-18 Awareness cannot be disciplined
 [x] 2024-06-19 Let a thought flower
 [x] 2024-06-20 Passive awareness
+[x] 2024-06-21 What is thoroughly understood will not repeat itself
 Violence
 
 
