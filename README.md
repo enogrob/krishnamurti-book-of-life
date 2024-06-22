@@ -294,6 +294,7 @@ Choiceless Awareness
 [x] 2024-06-20 Passive awareness
 [x] 2024-06-21 What is thoroughly understood will not repeat itself
 Violence
+[x] 2024-06-22 Violence
 
 
 
