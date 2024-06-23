@@ -295,6 +295,7 @@ Choiceless Awareness
 [x] 2024-06-21 What is thoroughly understood will not repeat itself
 Violence
 [x] 2024-06-22 Violence
+[x] 2024-06-23 Is it possible to end this violence?
 
 
 
