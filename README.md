@@ -297,6 +297,7 @@ Violence
 [x] 2024-06-22 Violence
 [x] 2024-06-23 Is it possible to end this violence?
 [x] 2024-06-24 The central cause of conflict
+[x] 2024-06-25 Realize you are violent
 
 
 
