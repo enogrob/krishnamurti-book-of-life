@@ -301,6 +301,7 @@ Violence
 [x] 2024-06-26 Freedom from violence
 [x] 2024-06-27 The major cause of violence
 [x] 2024-06-28 The fact is we are violent
+[x] 2024-06-29 To destroy hate
 
 
 
