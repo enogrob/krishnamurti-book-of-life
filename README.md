@@ -304,7 +304,9 @@ Violence
 [x] 2024-06-29 To destroy hate
 [x] 2024-06-30 That thing which you fight you become
 July
+Happiness
 [x] 2024-07-01 Happiness vs. gratification
+[x] 2024-07-02 One must go deep to know joy
 
 
 
