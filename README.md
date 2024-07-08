@@ -312,6 +312,7 @@ Happiness
 [x] 2024-07-05 Can happiness be found through anything?
 [x] 2024-07-06 Happiness that is not of the mind
 [x] 2024-07-07 Understanding suffering
+[x] 2024-07-08 Suffering is suffering, not yours or mine
 
 
 
