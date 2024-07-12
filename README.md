@@ -317,6 +317,7 @@ Grief
 [x] 2024-07-09 Understanding suffering
 [x] 2024-07-10 Acquiring beliefs to ward off pain
 [x] 2024-07-11 Integrated Understanding
+[x] 2024-07-12 You are the suffering
 
 
 
