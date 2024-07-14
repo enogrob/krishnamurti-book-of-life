@@ -318,6 +318,9 @@ Grief
 [x] 2024-07-10 Acquiring beliefs to ward off pain
 [x] 2024-07-11 Integrated Understanding
 [x] 2024-07-12 You are the suffering
+[x] 2024-07-13 Is suffering essential?
+Hurt
+[x] 2024-07-14 Conscious sorrow and unconscious sorrow
 
 
 
