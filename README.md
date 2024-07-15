@@ -321,6 +321,7 @@ Grief
 [x] 2024-07-13 Is suffering essential?
 Hurt
 [x] 2024-07-14 Conscious sorrow and unconscious sorrow
+[x] 2024-07-15 Hurt feelings
 
 
 
