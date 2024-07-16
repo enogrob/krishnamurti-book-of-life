@@ -322,6 +322,7 @@ Grief
 Hurt
 [x] 2024-07-14 Conscious sorrow and unconscious sorrow
 [x] 2024-07-15 Hurt feelings
+[x] 2024-07-16 Self-image leads to pain
 
 
 
