@@ -325,6 +325,7 @@ Hurt
 [x] 2024-07-16 Self-image leads to pain
 [x] 2024-07-17 Perverted pleasure
 [x] 2024-07-18 Real education
+[x] 2024-07-19 Cessation of anger
 
 
 
