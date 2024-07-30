@@ -327,6 +327,7 @@ Hurt
 [x] 2024-07-18 Real education
 [x] 2024-07-19 Cessation of anger
 [x] 2024-07-20 Forgiveness is not true compassion
+[x] 2024-07-21 Where there is the possibility of pain there is no love
 
 
 
