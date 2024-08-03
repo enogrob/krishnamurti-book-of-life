@@ -330,6 +330,10 @@ Hurt
 [x] 2024-07-21 Where there is the possibility of pain there is no love
 Sorrow
 [x] 2024-07-31 Be in communion with sorrow
+August
+Truth
+[x] 2024-08-03 Truth has no abiding place
+
 
 
 
