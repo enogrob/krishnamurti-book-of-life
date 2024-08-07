@@ -335,6 +335,8 @@ Truth
 [x] 2024-08-03 Truth has no abiding place
 [x] 2024-08-05 Truth is found moment to moment
 [x] 2024-08-06 The true revolutionary
+[x] 2024-08-07 See the truth in the false
+
 
 
 
