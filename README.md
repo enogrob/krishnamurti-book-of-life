@@ -339,6 +339,8 @@ Truth
 [x] 2024-08-08 Understand the actual
 [x] 2024-08-09 Translation of the facts prevents seeing
 [x] 2024-08-10 There is only one fact: impermanence
+[x] 2024-08-11 Hankering after the unknowable
+
 
 
 
