@@ -339,7 +339,10 @@ Truth
 [x] 2024-08-08 Understand the actual
 [x] 2024-08-09 Translation of the facts prevents seeing
 [x] 2024-08-10 There is only one fact: impermanence
+Reality
 [x] 2024-08-11 Hankering after the unknowable
+[x] 2024-08-12 Is suffering merely a word or an actuality
+[x] 2024-08-13 You and nothingness are one
 
 
 
