@@ -345,6 +345,10 @@ Reality
 [x] 2024-08-13 You and nothingness are one
 [x] 2024-08-14 How do we end fear?
 [x] 2024-08-15 The duality of thinker and thought
+[x] 2024-08-16 Thought creates the thinker
+Observer and Observed
+What is
+
 
 
 
