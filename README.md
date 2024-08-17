@@ -346,6 +346,7 @@ Reality
 [x] 2024-08-14 How do we end fear?
 [x] 2024-08-15 The duality of thinker and thought
 [x] 2024-08-16 Thought creates the thinker
+[x] 2024-08-17 A wall of impregnable thought
 Observer and Observed
 What is
 
