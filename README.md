@@ -348,6 +348,7 @@ Reality
 [x] 2024-08-16 Thought creates the thinker
 [x] 2024-08-17 A wall of impregnable thought
 Observer and Observed
+[ ] 2024-08-18 When the observer is the observed
 What is
 
 
