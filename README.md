@@ -348,7 +348,8 @@ Reality
 [x] 2024-08-16 Thought creates the thinker
 [x] 2024-08-17 A wall of impregnable thought
 Observer and Observed
-[ ] 2024-08-18 When the observer is the observed
+[x] 2024-08-18 When the observer is the observed
+[x] 2024-08-19 Is there an observer watching loneliness?
 What is
 
 
