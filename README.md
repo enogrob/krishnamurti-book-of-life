@@ -350,6 +350,7 @@ Reality
 Observer and Observed
 [x] 2024-08-18 When the observer is the observed
 [x] 2024-08-19 Is there an observer watching loneliness?
+[x] 2024-08-20 What is acumulated is not truth
 What is
 
 
