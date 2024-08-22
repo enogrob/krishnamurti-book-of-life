@@ -352,6 +352,7 @@ Observer and Observed
 [x] 2024-08-19 Is there an observer watching loneliness?
 [x] 2024-08-20 What is acumulated is not truth
 [x] 2024-08-21 Immediate action
+[x] 2024-08-22 Reality is in what is
 What is
 
 
