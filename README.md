@@ -353,6 +353,7 @@ Observer and Observed
 [x] 2024-08-20 What is acumulated is not truth
 [x] 2024-08-21 Immediate action
 [x] 2024-08-22 Reality is in what is
+[x] 2024-08-23 Face the fact
 What is
 
 
