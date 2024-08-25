@@ -355,6 +355,8 @@ Observer and Observed
 [x] 2024-08-22 Reality is in what is
 [x] 2024-08-23 Face the fact
 What is
+[x] 2024-08-24 Freedom from what is
+[x] 2024-08-25 Observing thought
 
 
 
