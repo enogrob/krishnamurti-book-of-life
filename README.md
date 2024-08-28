@@ -359,6 +359,7 @@ What is
 [x] 2024-08-25 Observing thought
 [x] 2024-08-26 Escape breeds conflict
 [x] 2024-08-27 Discontent has no answer
+[x] 2024-08-28 Effort is distraction from what is
 
 
 
