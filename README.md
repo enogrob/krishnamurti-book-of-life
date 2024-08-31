@@ -362,6 +362,7 @@ What is
 [x] 2024-08-28 Effort is distraction from what is
 [x] 2024-08-29 A contentment not of the mind
 [x] 2024-08-30 Keep discontent alive
+[x] 2024-08-31 To understand what is
 
 
 
