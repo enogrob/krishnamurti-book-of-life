@@ -366,6 +366,7 @@ What is
 September
 Intellect
 [x] 2024-09-01 We think we are intellectual
+[x] 2024-09-02 All thought is distraction
 Thought
 Knowledge
 Mind
