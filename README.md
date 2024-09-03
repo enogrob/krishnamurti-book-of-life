@@ -78,11 +78,11 @@ Aloneness
 [x] 2023-12-03 Knowing loneliness
 [x] 2023-12-04 Only in aloneness is there innocence
 [x] 2023-12-05 The one who is alone is innocent
-[x] 2023-12-06 Create a new world, a new civilization 
+[x] 2023-12-06 Create a new world, a new civilization
 [x] 2023-12-07 Aloneness in which there is no fear
 Religion
 [x] 2023-12-08 Begin here
-[x] 2023-12-09 The religious mind is explosive 
+[x] 2023-12-09 The religious mind is explosive
 [x] 2023-12-10 Prayer is a complex affair
 [x] 2023-12-11 The answer to prayer
 [x] 2023-12-12 Is religion a matter of belief?
@@ -132,8 +132,8 @@ Self-Knowledge
 [x] 2024-01-31 Relationship is a mirror
 Becoming
 [x] 2024-02-01 Becoming is strife
-[x] 2024-02-02 All becoming is disintegration 
-[x] 2024-02-03 Can the crude mind become sensitive? 
+[x] 2024-02-02 All becoming is disintegration
+[x] 2024-02-03 Can the crude mind become sensitive?
 [x] 2024-02-04 Opportunities for self-expansion
 [x] 2024-02-05 Beyond all experiencing
 [x] 2024-02-06 What is the self?
@@ -196,7 +196,7 @@ Fear
 [x] 2024-03-28 Fear is non-acceptance of what is
 [x] 2024-03-29 The disorder that time creates
 [x] 2024-03-30 How do I look at anger?
-[x] 2024-03-31 The root of all 
+[x] 2024-03-31 The root of all
 April
 Desire
 [x] 2024-04-01 There is only craving
@@ -278,7 +278,7 @@ Energy
 [x] 2024-06-06 The highest form of energy
 Attention
 [x] 2024-06-07 The act of listening to a fact will free the mind
-[x] 2024-06-08 Attention without resistance 
+[x] 2024-06-08 Attention without resistance
 [x] 2024-06-09 Attention free of effort
 [x] 2024-06-10 An attention that is not exclusive
 [x] 2024-06-11 Attention is limitless, without frontiers
@@ -367,6 +367,7 @@ September
 Intellect
 [x] 2024-09-01 We think we are intellectual
 [x] 2024-09-02 All thought is distraction
+[x] 2024-09-03 Unity of mind and heart
 Thought
 Knowledge
 Mind
@@ -379,3 +380,4 @@ Mind
 
 
 
+```
