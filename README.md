@@ -369,6 +369,7 @@ Intellect
 [x] 2024-09-02 All thought is distraction
 [x] 2024-09-03 Unity of mind and heart
 [x] 2024-09-04 Intellect corrupts feeling
+[x] 2024-09-05 Intellect will not solve our problems
 Thought
 Knowledge
 Mind
