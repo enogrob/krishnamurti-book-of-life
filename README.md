@@ -370,6 +370,7 @@ Intellect
 [x] 2024-09-03 Unity of mind and heart
 [x] 2024-09-04 Intellect corrupts feeling
 [x] 2024-09-05 Intellect will not solve our problems
+[x] 2024-09-06 The flash of understanding
 Thought
 Knowledge
 Mind
