@@ -371,6 +371,7 @@ Intellect
 [x] 2024-09-04 Intellect corrupts feeling
 [x] 2024-09-05 Intellect will not solve our problems
 [x] 2024-09-06 The flash of understanding
+[x] 2024-09-07 The unguarded intellect
 Thought
 Knowledge
 Mind
