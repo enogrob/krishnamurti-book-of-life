@@ -373,6 +373,7 @@ Intellect
 [x] 2024-09-06 The flash of understanding
 [x] 2024-09-07 The unguarded intellect
 Thought
+[x] 2024-09-08 Memory has no life in itself
 Knowledge
 Mind
 
