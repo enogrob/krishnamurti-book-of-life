@@ -374,6 +374,7 @@ Intellect
 [x] 2024-09-07 The unguarded intellect
 Thought
 [x] 2024-09-08 Memory has no life in itself
+[x] 2024-09-09 Consciousness is of the past
 Knowledge
 Mind
 
