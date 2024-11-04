@@ -380,6 +380,7 @@ Mind
 October
 November
 [x] 2024-11-03 Beyond Ideas
+[x] 2024-11-04 Seeking Reality Without Illusions
 
 Time
 [x] 2024-10-01 Time Provides No Solution
