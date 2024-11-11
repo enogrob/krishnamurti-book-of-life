@@ -387,6 +387,7 @@ November
 [x] 2024-11-08 Live in this world anonymously
 [x] 2024-11-09 Only one hour to live
 [x] 2024-11-10 Die everyday
+[x] 2024-11-11 Feel the state of death
 
 Time
 [x] 2024-10-01 Time Provides No Solution
