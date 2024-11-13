@@ -388,6 +388,7 @@ November
 [x] 2024-11-09 Only one hour to live
 [x] 2024-11-10 Die everyday
 [x] 2024-11-11 Feel the state of death
+[x] 2024-11-12 Fear of Death
 
 Time
 [x] 2024-10-01 Time Provides No Solution
