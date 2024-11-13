@@ -389,6 +389,7 @@ November
 [x] 2024-11-10 Die everyday
 [x] 2024-11-11 Feel the state of death
 [x] 2024-11-12 Fear of Death
+[x] 2024-11-13 I am afraid
 
 Time
 [x] 2024-10-01 Time Provides No Solution
