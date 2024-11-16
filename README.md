@@ -390,6 +390,9 @@ November
 [x] 2024-11-11 Feel the state of death
 [x] 2024-11-12 Fear of Death
 [x] 2024-11-13 I am afraid
+[x] 2024-11-14 Authority prevents learning
+[x] 2024-11-15 Self-knowledge is a process 
+[x] 2024-11-16 Virtue has no authority
 
 Time
 [x] 2024-10-01 Time Provides No Solution
