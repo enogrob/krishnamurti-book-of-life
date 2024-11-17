@@ -393,6 +393,7 @@ November
 [x] 2024-11-14 Authority prevents learning
 [x] 2024-11-15 Self-knowledge is a process 
 [x] 2024-11-16 Virtue has no authority
+[x] 2024-11-17 Listening to yourself
 
 Time
 [x] 2024-10-01 Time Provides No Solution
