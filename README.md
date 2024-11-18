@@ -394,6 +394,7 @@ November
 [x] 2024-11-15 Self-knowledge is a process 
 [x] 2024-11-16 Virtue has no authority
 [x] 2024-11-17 Listening to yourself
+[x] 2024-11-18 Authority corrupts both leader and follower
 
 Time
 [x] 2024-10-01 Time Provides No Solution
