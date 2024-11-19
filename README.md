@@ -395,6 +395,7 @@ November
 [x] 2024-11-16 Virtue has no authority
 [x] 2024-11-17 Listening to yourself
 [x] 2024-11-18 Authority corrupts both leader and follower
+[x] 2024-11-19 The Old Mind is Bound by Authority
 
 Time
 [x] 2024-10-01 Time Provides No Solution
