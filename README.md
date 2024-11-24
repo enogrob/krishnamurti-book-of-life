@@ -399,6 +399,8 @@ November
 [x] 2024-11-20 How does one listen?
 [x] 2024-11-21 Authority Corrupts Both Leader and Follower
 [x] 2024-11-22 Fredom and Authority
+[x] 2024-11-23 beyond quality
+[x] 2024-11-24 The source of a crisis
 
 Time
 [x] 2024-10-01 Time Provides No Solution
