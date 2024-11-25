@@ -401,6 +401,7 @@ November
 [x] 2024-11-22 Fredom and Authority
 [x] 2024-11-23 beyond quality
 [x] 2024-11-24 The source of a crisis
+[x] 2024-11-25 The Foundation of Right Action
 
 Time
 [x] 2024-10-01 Time Provides No Solution
