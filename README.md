@@ -402,6 +402,8 @@ November
 [x] 2024-11-23 beyond quality
 [x] 2024-11-24 The source of a crisis
 [x] 2024-11-25 The Foundation of Right Action
+December
+[x] 2024-12-06 See the fact, not the idea
 
 Time
 [x] 2024-10-01 Time Provides No Solution
